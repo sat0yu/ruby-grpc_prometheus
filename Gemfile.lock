@@ -3,7 +3,7 @@ PATH
   specs:
     grpc_prometheus (0.1.0)
       grpc (~> 1.7)
-      prometheus-client
+      prometheus-client (~> 0.9.0)
 
 GEM
   remote: https://rubygems.org/
